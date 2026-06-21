@@ -269,3 +269,5 @@ It motivates me to build more projects and share my learning journey with the de
 ### 💡 Learning • Building • Innovating
 
 </div>
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="850"/>
