@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-
+#taking input for the online compiler #
 candidate_name = "Mohd Juned"
 
 answers = [
