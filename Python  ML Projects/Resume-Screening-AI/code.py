@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-
+#taking input for the online compiler #
 resume_text = """
 Python SQL Machine Learning Data Analysis
 Pandas NumPy Statistics Power BI Git
