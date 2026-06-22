@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 import matplotlib.patches as patches
-
+#taking input for the online compiler #
 objects = [
     {
         "name": "Car",
