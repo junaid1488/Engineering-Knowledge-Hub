@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-
+#taking input for the online compiler #
 customers = [
     {"name": "Customer A", "usage": 90, "support_calls": 1},
     {"name": "Customer B", "usage": 30, "support_calls": 8},
