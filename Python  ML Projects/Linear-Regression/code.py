@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-
+#taking input for the online compiler #
 np.random.seed(42)
 
 hours_studied = np.array([
