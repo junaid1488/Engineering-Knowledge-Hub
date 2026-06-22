@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-
+#taking input for the online compiler #
 transactions = [
     {"id": 1001, "amount": 500, "location": "Lucknow"},
     {"id": 1002, "amount": 15000, "location": "Delhi"},
