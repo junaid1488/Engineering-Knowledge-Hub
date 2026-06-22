@@ -78,7 +78,7 @@ for month, value in zip(
 plt.figure(
     figsize=(10, 6)
 )
-
+#plot the graph of data #
 plt.plot(
     months,
     sales,
