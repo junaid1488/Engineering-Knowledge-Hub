@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-
+#taking input for the online compiler #
 movies = {
     "Inception": ["Sci-Fi", "Action"],
     "Interstellar": ["Sci-Fi", "Drama"],
