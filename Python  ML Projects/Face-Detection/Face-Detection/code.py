@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import requests
 import matplotlib.pyplot as plt
-
+#taking input for the online compiler #
 url = "https://raw.githubusercontent.com/opencv/opencv/master/samples/data/lena.jpg"
 
 response = requests.get(url)
