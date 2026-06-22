@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-
+#taking input for the online compiler #
 days = np.arange(1, 31)
 
 stock_prices = np.array([
