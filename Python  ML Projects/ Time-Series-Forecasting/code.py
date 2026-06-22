@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-
+#taking input for the online compiler #
 months = np.arange(1, 13)
 
 sales = np.array([
