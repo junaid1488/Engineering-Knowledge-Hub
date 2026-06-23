@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-
+# input for the online compiler #
 news_articles = [
     "Scientists discover a new renewable energy source.",
     "Aliens have landed in Lucknow and opened a shopping mall.",
