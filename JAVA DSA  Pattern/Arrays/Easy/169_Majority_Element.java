@@ -10,7 +10,7 @@ class Solution {
             if (count == 0) {
                 candidate = num;
             }
-
+//count using for precedence 
             count += (num == candidate) ? 1 : -1;
         }
 
