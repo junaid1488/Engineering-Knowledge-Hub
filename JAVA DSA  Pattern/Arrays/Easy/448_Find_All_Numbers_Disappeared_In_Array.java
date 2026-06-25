@@ -14,7 +14,7 @@ class Solution {
                 nums[index] = -nums[index];
             }
         }
-
+// while loop with conditional statements 
         for (int i = 0; i < nums.length; i++) {
 
             if (nums[i] > 0) {
