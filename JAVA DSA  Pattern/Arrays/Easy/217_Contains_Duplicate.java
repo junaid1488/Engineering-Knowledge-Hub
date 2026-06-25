@@ -7,7 +7,7 @@ class Solution {
         Set<Integer> set = new HashSet<>();
 
         for (int num : nums) {
-
+//conditional statement
             if (!set.add(num)) {
                 return true;
             }
