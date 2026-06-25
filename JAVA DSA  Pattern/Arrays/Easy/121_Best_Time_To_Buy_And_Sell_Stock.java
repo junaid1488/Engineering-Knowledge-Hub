@@ -8,7 +8,7 @@ class Solution {
         for (int price : prices) {
 
             minPrice = Math.min(minPrice, price);
-
+//proce logic rule
             maxProfit = Math.max(
                 maxProfit,
                 price - minPrice
