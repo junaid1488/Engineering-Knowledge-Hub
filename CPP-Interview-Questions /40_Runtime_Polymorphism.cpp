@@ -1,6 +1,3 @@
-// Author: Mohd Juned
-// Language: C++
-// Topic: Runtime Polymorphism
 #include <iostream>
 using namespace std;
 
