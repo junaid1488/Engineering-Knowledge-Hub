@@ -1,9 +1,3 @@
-/*
-File Name : 48_Multiset.cpp
-Author    : Mohd Juned
-Language  : C++
-Topic     : Multiset (STL)
-*/
 #include <iostream>
 #include <set>
 using namespace std;
