@@ -1,6 +1,3 @@
-// Author: Mohd Juned
-// Language: C++
-// Topic: Diamond Problem
 #include <iostream>
 using namespace std;
 
