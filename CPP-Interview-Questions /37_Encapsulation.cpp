@@ -1,6 +1,3 @@
-// Author: Mohd Juned
-// Language: C++
-// Topic: Encapsulation
 #include <iostream>
 using namespace std;
 
