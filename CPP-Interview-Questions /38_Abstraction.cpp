@@ -1,7 +1,3 @@
-// Author: Mohd Juned
-// Language: C++
-// Topic: Abstraction
-#include <iostream>
 using namespace std;
 
 class ATM {
