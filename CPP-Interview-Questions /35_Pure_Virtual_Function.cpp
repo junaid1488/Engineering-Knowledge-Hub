@@ -1,6 +1,3 @@
-// Author: Mohd Juned
-// Language: C++
-// Topic: Pure Virtual Function
 #include <iostream>
 using namespace std;
 
