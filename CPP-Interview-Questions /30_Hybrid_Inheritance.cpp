@@ -1,6 +1,3 @@
-// Author: Mohd Juned
-// Language: C++
-// Topic: Hybrid Inheritance
 #include <iostream>
 using namespace std;
 
