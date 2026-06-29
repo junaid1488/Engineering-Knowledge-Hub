@@ -1,6 +1,3 @@
-// Author: Mohd Juned
-// Language: C++
-// Topic: Function Overloading
 #include <iostream>
 using namespace std;
 
