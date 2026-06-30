@@ -1,9 +1,4 @@
-/*
-File Name : 60_Trie.cpp
-Author    : Mohd Juned
-Language  : C++
-Topic     : Trie
-*/
+
 // Creates a TrieNode structure to store child nodes and end-of-word flag.
 // Defines a Trie class with insertion and search operations.
 // Initializes the root node.
