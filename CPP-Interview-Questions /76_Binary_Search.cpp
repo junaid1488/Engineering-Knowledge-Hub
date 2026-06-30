@@ -1,6 +1,3 @@
-// Author: Mohd Juned
-// Language: C++
-// Topic: Binary Search
 #include <iostream>
 using namespace std;
 
