@@ -1,8 +1,3 @@
-// Stores graph using an adjacency matrix.
-// Initializes the distance matrix.
-// Updates shortest paths using every vertex as an intermediate node.
-// Computes shortest paths between all vertex pairs.
-// Displays the final distance matrix.
 #include <iostream>
 #include <vector>
 using namespace std;
