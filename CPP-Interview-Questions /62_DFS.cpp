@@ -1,9 +1,3 @@
-
-// Creates an adjacency list to represent the graph.
-// Uses recursion to perform Depth First Search.
-// Marks visited vertices to prevent repeated traversal.
-// Visits each connected vertex recursively.
-// Displays the DFS traversal sequence.
 #include <iostream>
 #include <vector>
 using namespace std;
