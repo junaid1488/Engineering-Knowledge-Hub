@@ -1,9 +1,3 @@
-/*
-File Name : 59_Heap.cpp
-Author    : Mohd Juned
-Language  : C++
-Topic     : Heap
-*/
 #include <iostream>
 #include <queue>
 using namespace std;
