@@ -1,6 +1,3 @@
-// Author: Mohd Juned
-// Language: C++
-// Topic: Sliding Window
 
 // Header Files
 // Namespace Declaration
