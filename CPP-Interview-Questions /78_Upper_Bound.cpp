@@ -1,11 +1,11 @@
 #include <iostream>
 using namespace std;
 
-int lowerBound(int arr[], int n, int key) {
+int upperBound(int arr[], int n, int key) {
     int low = 0, high = n;
     while (low < high) {
         int mid = low + (high - low) / 2;
-        if (arr[mid] < key)
+        if (arr[mid] <= key)
             low = mid + 1;
         else
             high = mid;
@@ -18,6 +18,6 @@ int main() {
     int n = sizeof(arr) / sizeof(arr[0]), key;
     cout << "Enter element: ";
     cin >> key;
-    cout << "Lower Bound Index: " << lowerBound(arr, n, key);
+    cout << "Upper Bound Index: " << upperBound(arr, n, key);
     return 0;
 }
