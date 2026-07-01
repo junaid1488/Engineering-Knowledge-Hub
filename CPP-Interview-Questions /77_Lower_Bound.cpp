@@ -1,9 +1,4 @@
-// Author: Mohd Juned
-// Language: C++
-// Topic: Lower Bound
-// Author: Mohd Juned
-// Language: C++
-// Topic: Lower Bound
+
 
 // Header Files
 // Namespace Declaration
