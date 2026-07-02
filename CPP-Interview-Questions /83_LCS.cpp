@@ -7,10 +7,3 @@
 
 // LCS Function
 
-// Main Function
-// Input Strings
-// Initialize DP Table
-// Compute LCS Length
-// Display Result
-
-// Program Termination
