@@ -2,10 +2,10 @@
 // Language: C++
 // Topic: Longest Common Subsequence (LCS)
 
-
 // Header Files
 // Namespace Declaration
 
+// LCS Function
 
 // Main Function
 // Input Strings
@@ -13,3 +13,4 @@
 // Compute LCS Length
 // Display Result
 
+// Program Termination
