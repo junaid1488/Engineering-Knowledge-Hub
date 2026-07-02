@@ -13,4 +13,3 @@
 // Compute Fibonacci Sequence
 // Display Result
 
-// Program Termination
