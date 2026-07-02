@@ -7,9 +7,3 @@
 
 // Fibonacci Function
 
-// Main Function
-// Input Value
-// Initialize DP Array
-// Compute Fibonacci Sequence
-// Display Result
-
