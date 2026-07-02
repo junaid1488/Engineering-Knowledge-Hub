@@ -7,10 +7,4 @@
 
 // Knapsack Function
 
-// Main Function
-// Input Weights and Values
-// Initialize DP Table
-// Compute Maximum Profit
-// Display Result
 
-// Program Termination
