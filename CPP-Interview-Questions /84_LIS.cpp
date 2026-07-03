@@ -1,8 +1,3 @@
-
-
-// Header Files
-// Namespace Declaration
-
 // LIS Function
 
 // Main Function
