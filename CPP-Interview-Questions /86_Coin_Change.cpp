@@ -12,5 +12,3 @@
 // Initialize DP Array
 // Compute Minimum Coins Required
 // Display Result
-
-// Program Termination
