@@ -12,5 +12,3 @@
 // Create DP Array
 // Compute Maximum Profit
 // Print Final Result
-
-// End of Program
