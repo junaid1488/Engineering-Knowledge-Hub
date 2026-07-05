@@ -6,3 +6,9 @@
 // Declare Namespace
 
 // Subset Sum Function
+
+// Main Function
+// Initialize Input Data
+// Build DP Table
+// Check Target Sum
+// Display Output
