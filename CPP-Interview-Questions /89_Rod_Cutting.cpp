@@ -7,3 +7,9 @@
 
 // Rod Cutting Function
 
+// Main Function
+// Initialize Price Array
+// Create DP Array
+// Compute Maximum Profit
+// Print Final Result
+
