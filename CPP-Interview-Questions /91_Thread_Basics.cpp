@@ -4,5 +4,3 @@
 
 // Include Required Header Files
 // Use Standard Namespace
-
-// Thread Function
