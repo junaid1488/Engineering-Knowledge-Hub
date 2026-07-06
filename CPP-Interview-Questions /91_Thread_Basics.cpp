@@ -6,9 +6,3 @@
 // Use Standard Namespace
 
 // Thread Function
-
-// Main Function
-// Create Thread Object
-// Execute Thread Task
-// Join Thread
-// Display Output
