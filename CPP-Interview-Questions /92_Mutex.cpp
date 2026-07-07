@@ -8,8 +8,3 @@
 // Shared Resource Declaration
 // Thread Function
 // Mutex Lock & Unlock
-
-// Main Function
-// Create Thread Objects
-// Synchronize Threads
-// Display Final Output
