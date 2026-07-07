@@ -4,3 +4,7 @@
 
 // Include Required Header Files
 // Use Standard Namespace
+
+// Shared Variables Declaration
+// Producer/Consumer Function
+// Condition Variable Notification
