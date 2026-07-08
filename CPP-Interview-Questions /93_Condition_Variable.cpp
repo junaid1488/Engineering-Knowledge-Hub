@@ -8,8 +8,3 @@
 // Shared Variables Declaration
 // Producer/Consumer Function
 // Condition Variable Notification
-
-// Main Function
-// Create Thread Objects
-// Wait and Notify Threads
-// Display Final Output
