@@ -8,8 +8,3 @@
 // Shared Resource Declaration
 // Producer Function
 // Consumer Function
-
-// Main Function
-// Create Producer and Consumer Threads
-// Synchronize Thread Execution
-// Display Final Output
