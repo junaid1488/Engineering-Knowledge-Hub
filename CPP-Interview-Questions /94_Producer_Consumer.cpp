@@ -5,3 +5,6 @@
 // Include Required Header Files
 // Use Standard Namespace
 
+// Shared Resource Declaration
+// Producer Function
+// Consumer Function
