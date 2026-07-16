@@ -8,3 +8,8 @@
 // Observer Interface
 // Subject Class
 // Concrete Observer Class
+
+// Main Function
+// Register Observers
+// Notify Observers
+// Display Output
