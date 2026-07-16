@@ -8,8 +8,3 @@
 // Abstract Product Class
 // Concrete Product Classes
 // Factory Class
-
-// Main Function
-// Create Objects Using Factory
-// Execute Product Operations
-// Display Output
