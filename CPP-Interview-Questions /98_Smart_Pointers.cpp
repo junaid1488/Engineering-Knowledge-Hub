@@ -18,6 +18,3 @@
 // Language: C++
 // Topic: Smart Pointers
 
-
-// End of Program
-// End of Program
