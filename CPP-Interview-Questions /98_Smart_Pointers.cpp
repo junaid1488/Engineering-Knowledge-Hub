@@ -9,12 +9,3 @@
 // Create Unique Pointer
 // Create Shared Pointer
 // Create Weak Pointer
-
-// Main Function
-// Access Managed Objects
-// Demonstrate Smart Pointer Usage
-// Display Output
-// Author: Mohd Juned
-// Language: C++
-// Topic: Smart Pointers
-
