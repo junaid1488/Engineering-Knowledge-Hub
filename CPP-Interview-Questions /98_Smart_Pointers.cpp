@@ -5,6 +5,4 @@
 Smart Pointers
 
 Header Files
-// Use Standa
-
-// End of Program
+Standa
