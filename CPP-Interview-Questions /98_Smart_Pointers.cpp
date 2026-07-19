@@ -1,7 +1,7 @@
 
 // Author: Mohd Juned
 // Language: C++
-// Topic: Smart Pointers
+// Topic: Smart Pointer
 
 // Include Required Header Files
 // Use Standard Namespace
