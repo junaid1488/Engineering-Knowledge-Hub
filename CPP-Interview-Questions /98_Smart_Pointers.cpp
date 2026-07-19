@@ -6,6 +6,4 @@
 // Smart Pointer Declaration
 // Create Unique Pointer
 // Create Shared Pointer
-// Create Weak Pointer
-
-// Main Functi
+// Create Weak Poi
