@@ -8,9 +8,4 @@
 // Create Shared Pointer
 // Create Weak Pointer
 
-// Main Function
-ects
-// Demonstrate Smart Pointer Usage
-Display Output
-
-// End of Program
+// Main Functi
