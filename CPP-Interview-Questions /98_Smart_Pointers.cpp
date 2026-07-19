@@ -12,8 +12,7 @@
 // Create Weak Pointer
 
 // Main Function
-// Access Managed Objects
-// Demonstrate Smart Pointer Usage
+ Pointer Usage
 // Display Output
 
 // End of Program
