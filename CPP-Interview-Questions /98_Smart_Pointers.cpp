@@ -4,12 +4,7 @@
 // Language: C++
 // Topic: Smart Pointers
 
-// Include Required Header Files
-// Use Standard Namespace
-// Smart Pointer Declaration
-// Create Uni
-// Main Function
- Pointer Usage
-// Display Output
+Header Files
+// Use Standa
 
 // End of Program
