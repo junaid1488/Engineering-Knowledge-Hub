@@ -2,7 +2,7 @@
 
 // Author: Mohd Juned
 // Language: C++
-// Topic: Smart Pointers
+Smart Pointers
 
 Header Files
 // Use Standa
