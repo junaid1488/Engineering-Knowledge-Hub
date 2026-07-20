@@ -3,10 +3,6 @@
 // Topic: Lambda Expressions
 
 // Include Required Header Files
-// Use Standard Namespace
-
-// Lambda Function Declaration
-// Capture Variables
-
+// Us
 
  Display Output
