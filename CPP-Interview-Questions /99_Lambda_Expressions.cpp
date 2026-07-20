@@ -11,8 +11,4 @@
 // Lambda with Parameters
 // Lambda with Return Value
 
-// Main Function
-// Invoke Lambda Expressions
-// Display Output
-
-// End of Program
+//
