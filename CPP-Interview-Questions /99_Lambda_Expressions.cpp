@@ -1,5 +1,5 @@
 // Author: Mohd Juned
-// Language: C++
+// Language
 // Topic: Lambda Expressions
 
 // Include Required Header Files
