@@ -1,30 +1,17 @@
-#include <iostream>
-#include <vector>
-#include <algorithm>
-using namespace std;
+// Author: Mohd Juned
+// Language: C++
+// Topic: Lambda Expressions
 
-int main() {
-    vector<int> nums = {5, 2, 8, 1, 3};
+// Include Required Header Files
+// Use Standard Namespace
 
-    sort(nums.begin(), nums.end(), [](int a, int b) {
-        return a < b;
-    });
+// Lambda Function Declaration
+// Capture Variables
+// Lambda with Parameters
+// Lambda with Return Value
 
-    cout << "Sorted Elements: ";
+// Main Function
+// Invoke Lambda Expressions
+// Display Output
 
-    for_each(nums.begin(), nums.end(), [](int x) {
-        cout << x << " ";
-    });
-
-    cout << endl;
-
-    int a = 10, b = 20;
-
-    auto add = [=]() {
-        return a + b;
-    };
-
-    cout << "Sum: " << add();
-
-    return 0;
-}
+// End of Program
