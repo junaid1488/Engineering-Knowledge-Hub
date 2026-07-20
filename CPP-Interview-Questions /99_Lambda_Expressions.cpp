@@ -1,11 +1,6 @@
 // Author: Mohd Juned
 // Language: C++
-// Topic: Lambda Expressions
-
-/
-
-// Lambda Function Declaration
-// Capture Variables
+// Topic: Lambda Expressio
  Lambda with Return Value
 
 // Main Function
