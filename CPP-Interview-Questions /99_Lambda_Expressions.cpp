@@ -5,9 +5,7 @@
 // Include Required Header Files
 // Use Standard Namespace
 
-// Lambda Function Declaration
-// Capture Variables
-// Lambda with Parameters
+// Lambda Function Declaratio
 // Lambda with Return Value
 
 // Main Function
