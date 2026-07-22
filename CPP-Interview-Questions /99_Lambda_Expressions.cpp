@@ -10,13 +10,7 @@ public:
     }
 
     ~Demo() {
-        cout << "Object Destroyed\n";
-    }
 
-    void show() {
-        cout << "Using Smart Pointer\n";
-    }
-};
 
 int main() {
     unique_ptr<Demo> ptr1 = make_unique<Demo>();
