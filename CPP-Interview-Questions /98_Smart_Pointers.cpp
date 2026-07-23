@@ -4,17 +4,7 @@ using namespace std;
 
 class Demo {
 public:
-    Demo() {
-        cout << "Object Created\n";
-    }
-
-    ~Demo() {
-        cout << "Object Destroyed\n";
-    }
-
-    void show() {
-        cout << "Using Smart Pointer\n";
-    }
+    Demo() 
 };
 
 int main() {
