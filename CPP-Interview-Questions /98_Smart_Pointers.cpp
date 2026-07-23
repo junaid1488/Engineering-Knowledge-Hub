@@ -9,8 +9,6 @@ public:
 
 int main() {
 
-    weak_ptr<Demo> ptr4 = ptr2;
-
     if (auto temp = ptr4.lock())
         temp->show();
 
