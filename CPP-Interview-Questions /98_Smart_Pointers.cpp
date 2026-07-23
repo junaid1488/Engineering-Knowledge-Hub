@@ -8,9 +8,6 @@ public:
 };
 
 int main() {
- 
-
-    cout << "Shared Count: " << ptr2.use_count() << endl;
 
     weak_ptr<Demo> ptr4 = ptr2;
 
