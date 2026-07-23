@@ -7,10 +7,5 @@ public:
     Demo() 
 };
 
-int main() {
-
-    if (auto temp = ptr4.lock())
-        temp->show();
-
     return 0;
 }
