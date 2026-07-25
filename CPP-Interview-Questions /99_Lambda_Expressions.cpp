@@ -4,4 +4,3 @@
 using namespace std;
 
 class Demo {
-    return 0;
