@@ -8,6 +8,3 @@ public:
     Demo(
     ~Demo() {
         cout << "Object Destroyed\n";
-    }
-
-    weak_ptr<Demo> ptr4 = ptr2
