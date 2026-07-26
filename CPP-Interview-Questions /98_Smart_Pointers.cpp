@@ -10,10 +10,4 @@ public:
         cout << "Object Destroyed\n";
     }
 
-    weak_ptr<Demo> ptr4 = ptr2;
-
-    if (auto temp = ptr4.lock())
-        temp->show();
-
-    return 0;
-}
+    weak_ptr<Demo> ptr4 = ptr2
