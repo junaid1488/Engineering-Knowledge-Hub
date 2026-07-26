@@ -12,11 +12,6 @@ public:
     ~Demo() {
         cout << "Object Destroyed\n";
     }
-
-    void show() {
-        cout << "Using Smart Point
-
-
     shared_ptr<Demo> ptr2 = make_shared<Demo>();
     shared_ptr<Demo> ptr3 = ptr2;
 
