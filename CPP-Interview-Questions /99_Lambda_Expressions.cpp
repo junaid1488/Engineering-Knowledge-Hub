@@ -7,6 +7,3 @@ int main() {eturn a + b;
     };
 
     cout << "Sum: " << add();
-
-    return 0;
-}
