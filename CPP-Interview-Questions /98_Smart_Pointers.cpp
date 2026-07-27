@@ -3,4 +3,4 @@
 #include <memory>
 using namespace std;
 
-class Demo {
+class Demo 
