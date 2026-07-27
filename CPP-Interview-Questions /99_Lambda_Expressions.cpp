@@ -3,16 +3,7 @@
 #include <algorithm>
 using namespace std;
 
-int main() {
-
-
-
-    cout << endl;
-
-    int a = 10, b = 20;
-
-    auto add = [=]() {
-        return a + b;
+int main() {eturn a + b;
     };
 
     cout << "Sum: " << add();
