@@ -27,12 +27,7 @@ public:
         return *this;
     }
 
-    void display() {
-        if (data)
-            cout << "Value: " << *data << endl;
-        else
-            cout << "No Data\n";
-    }
+
 
     ~Demo() {
         delete data;
