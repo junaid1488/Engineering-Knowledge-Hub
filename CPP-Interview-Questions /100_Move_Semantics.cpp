@@ -37,11 +37,6 @@ public:
     ~Demo() {
         delete data;
     }
-};
-
-int main() {
-    Demo obj1(100);
-
 
 
     return 0;
