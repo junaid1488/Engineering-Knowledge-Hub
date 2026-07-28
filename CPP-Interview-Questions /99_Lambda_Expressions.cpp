@@ -9,7 +9,6 @@ int main() {
     sort(arr.begin(), arr.end(), [](int a, int b) {
         return a < b;
     });
-
     cout << "Sorted Array: ";
     for_each(arr.begin(), arr.end(), [](int x) {
         cout << x << " ";
