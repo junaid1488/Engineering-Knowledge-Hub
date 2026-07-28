@@ -11,14 +11,3 @@ class Demo {
     }
 
 
-
-    ~Demo() {
-        delete data;
-    }
-};
-
-int main() {
-
-
-    return 0;
-}
