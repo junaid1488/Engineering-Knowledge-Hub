@@ -11,11 +11,6 @@ public:
         cout << "Constructor Called\n";
     }
 
-    Demo(Demo&& obj) {
-        data = obj.data;
-        obj.data = nullptr;
-        cout << "Move Constructor Called\n";
-    }
 
     Demo& operator=(Demo&& obj) {
         if (this != &obj) {
