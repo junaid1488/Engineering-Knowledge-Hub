@@ -5,16 +5,7 @@ using namespace std;
 class Demo {
     int* data;
 
-public:
-
-
-
-int main() {
-    Demo obj1(100);
-
-    Demo obj2 = std::move(obj1);
-    obj2.display();
-
+public
 
     obj1.display();
     obj2.display();
