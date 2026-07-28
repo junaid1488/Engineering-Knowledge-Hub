@@ -13,9 +13,6 @@ public:
 
 
 
-        cout << "Move Assignment Operator Called\n";
-        return *this;
-    }
 
     void display() {
         if (data)
