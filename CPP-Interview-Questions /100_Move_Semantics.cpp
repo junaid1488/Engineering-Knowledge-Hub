@@ -6,12 +6,6 @@ class Demo {
     int* data;
 
 public:
-    Demo(int value) {
-        data = new int(value);
-        cout << "Constructor Called\n";
-    }
-
-
 
 
     void display() {
