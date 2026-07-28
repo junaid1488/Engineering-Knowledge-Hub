@@ -7,13 +7,7 @@ class Demo {
 
 public:
 
-  cout << "No Data\n";
-    }
 
-    ~Demo() {
-        delete data;
-    }
-};
 
 int main() {
     Demo obj1(100);
