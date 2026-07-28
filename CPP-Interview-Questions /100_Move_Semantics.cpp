@@ -22,17 +22,6 @@ public:
             delete data;
             data = obj.data;
             obj.data = nullptr;
-        }
-        cout << "Move Assignment Operator Called\n";
-        return *this;
-    }
-
-    void display() {
-        if (data)
-            cout << "Value: " << *data << endl;
-        else
-            cout << "No Data\n";
-    }
 
     ~Demo() {
         delete data;
