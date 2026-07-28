@@ -12,12 +12,7 @@ public:
     }
 
 
-    Demo& operator=(Demo&& obj) {
-        if (this != &obj) {
-            delete data;
-            data = obj.data;
-            obj.data = nullptr;
-        }
+
         cout << "Move Assignment Operator Called\n";
         return *this;
     }
