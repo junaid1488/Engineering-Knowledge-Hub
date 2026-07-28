@@ -7,12 +7,7 @@ class Demo {
 
 public:
 
-
-    void display() {
-        if (data)
-            cout << "Value: " << *data << endl;
-        else
-            cout << "No Data\n";
+  cout << "No Data\n";
     }
 
     ~Demo() {
