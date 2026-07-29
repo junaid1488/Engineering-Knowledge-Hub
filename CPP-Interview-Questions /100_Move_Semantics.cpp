@@ -10,7 +10,3 @@
 // Move Constructor
 // Move Assignment Operator
 
-// Main Function
-// Create Object
-// Transfer Resources Using std::move()
-// Display Output
