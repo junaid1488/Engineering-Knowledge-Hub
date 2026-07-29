@@ -4,9 +4,3 @@
 
 // Include Required Header Files
 // Use Standard Namespace
-
-// Class Definition
-// Constructor
-// Move Constructor
-// Move Assignment Operator
-
