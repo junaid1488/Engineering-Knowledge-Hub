@@ -13,6 +13,3 @@
 // Main Function
 // Access Managed Objects
 // Demonstrate Smart Pointer Usage
-// Display Output
-
-// End of Program
