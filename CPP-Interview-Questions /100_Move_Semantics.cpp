@@ -2,13 +2,6 @@
 #include <memory>
 using namespace std;
 
-
-};
-
-int main() {
-    unique_ptr<Student> ptr1 = make_unique<Student>();
-    ptr1->display();
-
     shared_ptr<Student> ptr2 = make_shared<Student>();
     shared_ptr<Student> ptr3 = ptr2;
 
