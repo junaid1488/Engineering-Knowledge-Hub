@@ -2,19 +2,7 @@
 #include <memory>
 using namespace std;
 
-class Student {
-public:
-    Student() {
-        cout << "Object Created\n";
-    }
 
-    ~Student() {
-        cout << "Object Destroyed\n";
-    }
-
-    void display() {
-        cout << "Using Smart Pointer\n";
-    }
 };
 
 int main() {
