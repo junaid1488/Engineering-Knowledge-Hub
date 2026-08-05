@@ -4,21 +4,7 @@
 
 // Include Required Header Files
 // Use Standard Namespace
-
-/
-// Create Unique Pointer
-// Create Shared Pointer
-// Create Weak Pointer
-
-// Main Function
-// Access Managed Objects
-// Demonstrate Smart Pointer Usage
-// Display Output
-
-// End of Program
-// Main Function
-// Access Managed Objects
-// Demonstrate Smart Pointer Usage
+er Usage
 // Display Output
 
 // End of Program
