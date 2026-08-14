@@ -2,10 +2,5 @@
 // Language: C++
 // Topic: Snapshot Array
 
-// Public Access Specifier
-
-// Snap Function
-// Increment Snapshot ID
-// Return Snapshot Number
 
 // End of Program
