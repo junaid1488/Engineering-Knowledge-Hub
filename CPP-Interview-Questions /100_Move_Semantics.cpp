@@ -8,14 +8,6 @@
 
 // SnapshotArray Class Definition
 
-
-// Public Access Specifier
-
-// Constructor
-// Initialize Snapshot Array
-// Resize Update Storage
-// Initialize Snapshot Counter
-
 // Set Function
 // Check Existing Update
 // Store New Value
