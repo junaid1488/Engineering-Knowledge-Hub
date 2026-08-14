@@ -2,10 +2,6 @@
 // Language: C++
 // Topic: Snapshot Array
 
-// Private Data Members
-// Vector to Store Snapshot Updates
-// Current Snapshot ID Variable
-
 // Public Access Specifier
 
 // Set Function
