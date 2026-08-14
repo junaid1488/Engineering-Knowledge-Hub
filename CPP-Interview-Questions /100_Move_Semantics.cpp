@@ -8,9 +8,6 @@
 
 // SnapshotArray Class Definition
 
-// Private Data Members
-// Vector to Store Snapshot Updates
-// Current Snapshot ID Variable
 
 // Public Access Specifier
 
