@@ -11,9 +11,4 @@
 // Return Snapshot Number
 
 
-
-// Main Function
-// Create Object
-
-
 // End of Program
