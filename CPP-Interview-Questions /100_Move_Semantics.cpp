@@ -5,13 +5,6 @@
 // Include Required Header Files
 // Use Standard Namespace
 
-// SnapshotArray Class Definition
-// Constructor
-// Initialize Snapshot Array
-// Resize Update Storage
-// Initialize Snapshot Counter
-
-
 
 // Snap Function
 // Increment Snapshot ID
