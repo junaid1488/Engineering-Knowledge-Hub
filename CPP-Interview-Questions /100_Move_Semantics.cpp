@@ -11,10 +11,7 @@
 // Resize Update Storage
 // Initialize Snapshot Counter
 
-// Set Function
-// Check Existing Update
-// Store New Value
-// Update Current Snapshot Value
+
 
 // Snap Function
 // Increment Snapshot ID
