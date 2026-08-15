@@ -10,11 +10,7 @@
 // Increment Snapshot ID
 // Return Snapshot Number
 
-// Get Function
-// Perform Binary Search
-// Find Required Snapshot
-// Handle Default Value
-// Return Stored Value
+
 
 // Main Function
 // Create Object
