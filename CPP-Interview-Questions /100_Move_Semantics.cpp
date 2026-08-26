@@ -2,9 +2,6 @@
 // Language: C++
 // Topic: Snapshot Array
 
-// Constructor
-// Initialize Snapshot Array
-
 
 // Set Function
 // Check Current Snapshot Update
