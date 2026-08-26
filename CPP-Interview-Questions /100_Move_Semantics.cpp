@@ -5,5 +5,3 @@
 
 // Main Function
 // Create SnapshotArray Object
-// Perform Array Operations
-// Display Results
