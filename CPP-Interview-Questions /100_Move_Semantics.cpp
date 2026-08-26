@@ -2,8 +2,7 @@
 
 // Snap Function
 // Create New Snapshot
-// Increment Snapshot Counter
-// Return Snapshot ID
+
 
 // Get Function
 // Search for Requested Snapshot
