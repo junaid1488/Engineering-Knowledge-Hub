@@ -1,10 +1,3 @@
-
-
-// Snap Function
-// Create New Snapshot
-
-
-// Get Function
 // Search for Requested Snapshot
 // Perform Binary Search
 // Check Snapshot Availability
