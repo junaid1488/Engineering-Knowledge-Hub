@@ -7,9 +7,6 @@
 
 // SnapshotArray Class Definition
 
-// Private Data Members
-// Store Snapshot Updates
-// Track Current Snapshot ID
 
 // Public Access Specifier
 
