@@ -1,9 +1,3 @@
-
-// Private Data Members
-// Store Snapshot Updates
-// Track Current Snapshot ID
-
-
 // Allocate Update Storage
 // Initialize Snapshot Counter
 
