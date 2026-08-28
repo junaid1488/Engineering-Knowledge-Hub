@@ -4,9 +4,6 @@
 // Set Function
 // Check Current Snapshot Update
 
-
-// Snap Function
-// Create New Snapshot
 // Increment Snapshot Counter
 // Return Snapshot ID
 
