@@ -3,9 +3,6 @@
 // Update Existing Value
 // Store New Snapshot Value
 
-// Snap Function
-// Create New Snapshot
-// Increment Snapshot Counter
 // Return Snapshot ID
 
 // Get Function
