@@ -1,10 +1,3 @@
-
-    }
-      
-        curSnap++;
-        return curSnap - 1;
-    }
-
     int get(int index, int snap_id) {
         int idx = upper_bound(
             updates[index].begin(),
