@@ -4,10 +4,7 @@ class SnapshotArray {
 
 
     }
-            updates[index].push_back({curSnap, val});
-    }
-
-    int snap() {
+      
         curSnap++;
         return curSnap - 1;
     }
