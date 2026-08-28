@@ -7,9 +7,6 @@
 // Increment Snapshot Counter
 // Return Snapshot ID
 
-// Get Function
-// Search for Requested Snapshot
-// Perform Binary Search
 // Check Snapshot Availability
 // Return Default Value if Not Found
 // Return Stored Snapshot Value
