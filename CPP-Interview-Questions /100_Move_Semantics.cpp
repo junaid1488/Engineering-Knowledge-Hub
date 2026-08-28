@@ -4,9 +4,6 @@
 // Store New Snapshot Value
 
 // Return Snapshot ID
-
-// Main Function
-// Create SnapshotArray Object
 // Perform Array Operations
 // Display Results
 
