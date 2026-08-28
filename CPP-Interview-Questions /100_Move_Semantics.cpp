@@ -1,10 +1,3 @@
-// Author: Mohd Juned
-// Language: C++
-// Topic: Snapshot Array
-
-
-
-// Allocate Update Storage
 // Initialize Snapshot Counter
 
 // Set Function
