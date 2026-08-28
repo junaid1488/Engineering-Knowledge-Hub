@@ -1,5 +1,3 @@
-// Initialize Snapshot Counter
-
 // Set Function
 // Check Current Snapshot Update
 // Update Existing Value
