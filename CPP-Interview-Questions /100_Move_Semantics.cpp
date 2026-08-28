@@ -6,7 +6,3 @@
 
 // Increment Snapshot Counter
 // Return Snapshot ID
-
-// Check Snapshot Availability
-// Return Default Value if Not Found
-// Return Stored Snapshot Value
