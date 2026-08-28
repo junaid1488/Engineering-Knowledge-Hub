@@ -7,12 +7,6 @@
 
 // SnapshotArray Class Definition
 
-
-
-// Public Access Specifier
-
-// Constructor
-// Initialize Snapshot Array
 // Allocate Update Storage
 // Initialize Snapshot Counter
 
