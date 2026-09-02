@@ -43,3 +43,27 @@ int main() {
     cout << (st.empty() ? "Valid" : "Invalid");
     return 0;
 }
+#include <iostream>
+#include <vector>
+#include <algorithm>
+using namespace std;
+
+int main() {
+    vector<vector<int>> a = {{1,3},{2,6},{8,10},{9,12}};
+
+    sort(a.begin(), a.end());
+
+    vector<vector<int>> ans;
+
+    for (auto x : a) {
+        if (ans.empty() || ans.back()[1] < x[0])
+            ans.push_back(x);
+        else
+            ans.back()[1] = max(ans.back()[1], x[1]);
+    }
+
+    for (auto x : ans)
+        cout << "[" << x[0] << "," << x[1] << "] ";
+
+    return 0;
+}
