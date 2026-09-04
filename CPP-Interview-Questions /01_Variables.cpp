@@ -4,9 +4,6 @@ int main() {
     int age = 21;
     double cgpa = 8.5;
     char grade = 'A';
-    bool placed = false;
-    string name = "Juned";
-   
     cout << "Grade: " << grade << '\n';
     cout << "Placed: " << placed << '\n';
     return 0;
