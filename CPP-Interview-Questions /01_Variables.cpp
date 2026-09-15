@@ -9,8 +9,6 @@ int main() {
     bool passed = true;
     string name = "Mohd Juned";
 
-    cout << "Name: " << name << endl;
-    cout << "Age: " << age << endl;
 
     return 0;
 }
