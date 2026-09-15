@@ -6,9 +6,6 @@ int main() {
     float marks = 85.5f;
     double salary = 50000.75;
     char grade = 'A';
-    bool passed = true;
-    string name = "Mohd Juned";
-
 
     return 0;
 }
