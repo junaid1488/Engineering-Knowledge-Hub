@@ -10,8 +10,6 @@ int main() {
     string name = "Mohd Juned";
 
     cout << "Name: " << name << endl;
-    cout << "Age: " << age << endl;
-   
 
     return 0;
 }
