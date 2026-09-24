@@ -14,7 +14,6 @@ int main() {
     cout << "Marks: " << marks << endl;
     cout << "Salary: " << salary << endl;
     cout << "Grade: " << grade << endl;
-    cout << "Passed: " << passed << endl;
 
     return 0;
 }
