@@ -12,7 +12,7 @@ int main() {
     cout << "Name: " << name << endl;
     cout << "Age: " << age << endl;
     cout << "Marks: " << marks << endl;
-    cout << "Salary: " << salary << endl;
+   
 
     return 0;
 }
