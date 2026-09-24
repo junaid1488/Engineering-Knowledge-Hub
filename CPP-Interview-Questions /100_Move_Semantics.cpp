@@ -5,7 +5,6 @@ int main() {
     int age = 20;
     float marks = 85.5f;
     double salary = 50000.75;
-    char grade = 'A';
-    bool passed = true;
+
     return 0;
 }
