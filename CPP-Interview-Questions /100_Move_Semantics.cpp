@@ -13,7 +13,6 @@ int main() {
     cout << "Age: " << age << endl;
     cout << "Marks: " << marks << endl;
     cout << "Salary: " << salary << endl;
-    cout << "Grade: " << grade << endl;
 
     return 0;
 }
