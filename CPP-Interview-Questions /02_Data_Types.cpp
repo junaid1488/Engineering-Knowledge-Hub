@@ -11,7 +11,7 @@ int main() {
     cout << sizeof(b) << '\n';
     cout << sizeof(c) << '\n';
     cout << sizeof(d) << '\n';
-    cout << sizeof(e) << '\n';
+    
     cout << sizeof(f) << '\n';
     return 0;
 }
