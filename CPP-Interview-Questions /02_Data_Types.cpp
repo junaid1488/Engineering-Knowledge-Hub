@@ -5,7 +5,7 @@ int main() {
     long long b = 10000000000LL;
     float c = 10.5f;
     double d = 20.123456;
-    char e = 'J';
+
     
     return 0;
 }
