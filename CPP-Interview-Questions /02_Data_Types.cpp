@@ -9,7 +9,6 @@ int main() {
     bool f = true;
     cout << sizeof(a) << '\n';
     cout << sizeof(b) << '\n';
-    cout << sizeof(c) << '\n';
     cout << sizeof(d) << '\n';
     
     
