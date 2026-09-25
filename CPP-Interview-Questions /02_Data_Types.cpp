@@ -8,7 +8,7 @@ int main() {
     char e = 'J';
     bool f = true;
     cout << sizeof(a) << '\n';
-    cout << sizeof(b) << '\n';
+    
     
     
     return 0;
