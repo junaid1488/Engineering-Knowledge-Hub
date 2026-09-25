@@ -12,6 +12,6 @@ int main() {
     cout << sizeof(c) << '\n';
     cout << sizeof(d) << '\n';
     
-    cout << sizeof(f) << '\n';
+    
     return 0;
 }
