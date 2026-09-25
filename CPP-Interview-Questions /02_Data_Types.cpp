@@ -7,8 +7,6 @@ int main() {
     double d = 20.123456;
     char e = 'J';
     bool f = true;
-    cout << sizeof(a) << '\n';
-    
     
     
     return 0;
