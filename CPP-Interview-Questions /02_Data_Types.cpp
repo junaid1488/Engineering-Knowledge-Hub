@@ -6,8 +6,6 @@ int main() {
     float c = 10.5f;
     double d = 20.123456;
     char e = 'J';
-    bool f = true;
-    
     
     return 0;
 }
