@@ -8,10 +8,6 @@ int main() {
     cout << a - b << '\n';
     cout << a * b << '\n';
     
-    cout << a % b << '\n';
-
-    cout << (a > b) << '\n';
-
-
+    cout << a % b << '\n'
     return 0;
 }
