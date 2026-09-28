@@ -12,7 +12,7 @@ int main() {
         case 4: cout << "Thursday"; break;
         case 5: cout << "Friday"; break;
         case 6: cout << "Saturday"; break;
-        case 7: cout << "Sunday"; break;
+ 
 
     }
 
