@@ -10,8 +10,6 @@ int main() {
     else if (marks >= 75)
         cout << "B";
     else if (marks >= 60)
-        cout << "C";
-    else
 
 
     return 0;
