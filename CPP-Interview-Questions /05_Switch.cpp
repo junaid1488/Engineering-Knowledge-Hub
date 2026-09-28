@@ -10,10 +10,7 @@ int main() {
         case 2: cout << "Tuesday"; break;
         case 3: cout << "Wednesday"; break;
         case 4: cout << "Thursday"; break;
-        case 5: cout << "Friday"; break;
- 
-
-    }
+          }
 
     return 0;
 }
