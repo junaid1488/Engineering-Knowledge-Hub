@@ -6,6 +6,4 @@ int main() {
     cin >> marks;
 
     if (marks >= 90)
-        cout << "A";
-    return 0;
 }
