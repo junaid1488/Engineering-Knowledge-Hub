@@ -8,6 +8,5 @@ int main() {
     if (marks >= 90)
         cout << "A";
     else if (marks >= 75)
-        cout << "B";
     return 0;
 }
