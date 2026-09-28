@@ -12,7 +12,7 @@ int main() {
     else if (marks >= 60)
         cout << "C";
     else
-        cout << "Fail";
+
 
     return 0;
 }
