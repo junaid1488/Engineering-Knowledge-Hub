@@ -13,7 +13,7 @@ int main() {
         case 5: cout << "Friday"; break;
         case 6: cout << "Saturday"; break;
         case 7: cout << "Sunday"; break;
-        default: cout << "Invalid";
+
     }
 
     return 0;
