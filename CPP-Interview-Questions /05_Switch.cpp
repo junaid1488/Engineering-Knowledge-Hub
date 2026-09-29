@@ -6,6 +6,5 @@ int main() {
     cin >> day;
 
     switch (day) {
-        case 1: cout << "Monday"; break;
     return 0;
 }
