@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
 
-long long factorial(int n) {
-    if (n <= 1) return 1;
+long long factorial(int n) 
      return 0;
 }
