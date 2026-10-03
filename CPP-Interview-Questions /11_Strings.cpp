@@ -9,8 +9,7 @@ int main() {
 
     cout << "Length: " << s.length() << '\n';
 
-    reverse(s.begin(), s.end());
-
+    
     
     return 0;
 }
