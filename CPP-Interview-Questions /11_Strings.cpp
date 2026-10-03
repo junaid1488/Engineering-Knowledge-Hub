@@ -7,9 +7,6 @@ int main() {
     string s;
     getline(cin, s);
 
-    cout << "Length: " << s.length() << '\n';
-
-    
     
     return 0;
 }
