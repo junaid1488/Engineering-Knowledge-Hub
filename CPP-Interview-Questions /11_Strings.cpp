@@ -11,7 +11,6 @@ int main() {
 
     reverse(s.begin(), s.end());
 
-    cout << "Reversed: " << s << '\n';
-
+    
     return 0;
 }
