@@ -3,10 +3,7 @@
 using namespace std;
 
 int main() {
-    ofstream out("sample.txt");
-    out << "Hello File Handling";
-    
-    
+    ofstream out("sample.
     cout << line << '\n';
 
     in.close();
