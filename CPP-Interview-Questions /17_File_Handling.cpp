@@ -14,7 +14,5 @@ int main() {
 
     cout << line << '\n';
 
-    in.close();
-
-    return 0;
+    in.close
 }
