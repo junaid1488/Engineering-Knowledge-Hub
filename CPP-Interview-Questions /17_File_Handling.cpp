@@ -7,8 +7,6 @@ int main() {
     out << "Hello File Handling";
     out.close();
 
-    ifstream in("sample.txt");
-
-    string line;
+    ifstream in("sample.txt")
     
 }
