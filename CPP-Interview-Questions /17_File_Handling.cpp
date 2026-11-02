@@ -2,9 +2,7 @@
 #include <fstream>
 using namespace std;
 
-int main() {
-    
-    ifstream in("sample.txt");
+int main() 
 
     string line;
     getl
