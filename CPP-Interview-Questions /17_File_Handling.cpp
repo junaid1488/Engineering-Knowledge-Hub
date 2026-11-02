@@ -3,8 +3,7 @@
 using namespace std;
 
 int main() {
-    ofstream out("sample.txt");
-    out <<
+    
     ifstream in("sample.txt");
 
     string line;
