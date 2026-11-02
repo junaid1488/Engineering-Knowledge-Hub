@@ -4,9 +4,7 @@ using namespace std;
 
 int main() {
     ofstream out("sample.txt");
-    out << "Hello File Handling";
-    out.close();
-
+    out <<
     ifstream in("sample.txt");
 
     string line;
