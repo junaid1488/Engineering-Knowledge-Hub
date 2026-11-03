@@ -12,9 +12,7 @@ int main() {
     string line;
     getline(in, line);
 
-    cout << line << '\n';
-
-    in.close();
+    cout << line << '\n'
 
     return 0;
 }
