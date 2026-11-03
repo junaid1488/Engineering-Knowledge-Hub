@@ -9,8 +9,6 @@ int main() {
 
     ifstream in("sample.txt");
 
-    string line;
-    getline(in, line);
 
     cout << line << '\n'
 
