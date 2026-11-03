@@ -7,10 +7,7 @@ int main() {
     out << "Hello File Handling";
     out.close();
 
-    ifstream in("sample.txt");
-
-
-    cout << line << '\n'
+    ifstream in("sample.txt"
 
     return 0;
 }
